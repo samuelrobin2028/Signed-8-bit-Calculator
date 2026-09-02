@@ -1,2 +1,5 @@
 # Signed-8-bit-Calculator
-Analyzed Intel’s device repurposing program using SQL across 600,000+ devices to assess energy savings, CO₂ reduction, and regional trends. Found older devices deliver the highest per-unit impact, while laptops drive the greatest total savings, informing recommendations for high-impact repurposing strategies.
+Built a hardware-based calculator performing signed add/subtract/multiply/divide on a Xilinx Nexys A7 FPGA in VHDL
+Designed custom arithmetic circuits, control logic, and display interfaces for a fully functional embedded digital system
+Implemented divide-by-zero error handling with two's-complement signed arithmetic
+Verified correctness through simulation and physical hardware testing across all edge cases
